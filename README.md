@@ -10,3 +10,6 @@ Made using Discord.js, Node.js and Javascript
 - Start the Node server and the app by running TOKEN='APP_BOT_USERTOKEN' npm start   or env TOKEN='APP_BOT_USERTOKEN' npm start
 - Add the bot to your server and type /knock to see result.
 
+## Learn to Code It:
+You can follow my Guide on how to make it yourself on Reddit
+https://www.reddit.com/r/learnprogramming/comments/749alf/guide_how_to_make_a_simple_discord_bot/
